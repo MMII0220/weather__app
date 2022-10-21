@@ -6,7 +6,6 @@ function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState('');
 
-  // const url = `http://api.openweathermap.org/geo/1.0/direct?q=${location}&appid=ab0bc6c378de0172111c7682cc54ef7b`;
   const url = `http://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=ab0bc6c378de0172111c7682cc54ef7b`;
 
   const searchLocation = (e) => {
@@ -43,7 +42,7 @@ function App() {
               {data.weather ? <p>{data.weather[0].main}</p> : null}
             </article>
           </div>
-          {data.name && 
+          {data.name &&
             <article className='bottom'>
               <div className="feels">
                 {data.main ? <p className='bold'>{data.main.temp}°F</p> : null}

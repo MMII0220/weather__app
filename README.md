@@ -3,10 +3,10 @@
 Данные о погоде в быстром и удобном виде.
 Получите доступ к текущим данным о погоде для любого места на Земле, включая более 200 000 городов! Надо прописать город в поиске.
 <img align='center' src='.\assets\weather search.jpg' alt='weather search' />
-<br />
+<br>
 Данные показываются в таком виде.
 <img src='.\assets\weather.jpg' alt='weather web-site' />
-<br /><br />
+<br><br>
 
 # Getting Started with Create React App
 

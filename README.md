@@ -2,7 +2,7 @@
 
 Данные о погоде в быстром и удобном виде.
 
-<img src='.\assets\weather search.jpg' alt='weather search' />
+<img style='text-align: center;' src='.\assets\weather search.jpg' alt='weather search' />
 <img src='.\assets\weather.jpg' alt='weather web-site' />
 
 # Getting Started with Create React App

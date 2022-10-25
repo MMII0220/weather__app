@@ -1,3 +1,10 @@
+# Weather App
+
+Данные о погоде в быстром и удобном виде.
+
+<img src='.\assets\weather search.jpg' alt='weather search' />
+<img src='.\assets\weather.jpg' alt='weather web-site' />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
